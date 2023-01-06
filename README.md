@@ -21,14 +21,14 @@ Pero puedes descargarlas de manera gratuita! Tal cual como se muestra en el vide
 
 Te dejo aquí las instrucciones:
 
- - Descargar el paquete de personajes y descomprimir la carpeta '2 Punk' en la carpeta 'sprites':
-	1.1. [Paquete de personajes](https://bit.ly/3vxIk3W)
+- Descargar el paquete de personajes y descomprimir la carpeta '2 Punk' en la carpeta 'sprites':
+	- [Paquete de personajes](https://bit.ly/3vxIk3W)
  - Descargar el paquete de fondos y descomprimir la carpeta '1 Backgrounds' en la carpeta 'sprites':
-	2.1. [Paquete de fondos](https://bit.ly/3i9X0mS)
+	- [Paquete de fondos](https://bit.ly/3i9X0mS)
  - Descargar el paquete de pisos, señalamientos, etc y descomprimir las carpetas '1 Tiles' y '4 Animated objects' en la carpeta 'sprites':
-	3.1. [Paquete de pisos etc](https://bit.ly/3GdSn2W)
+	- [Paquete de pisos etc](https://bit.ly/3GdSn2W)
  - Descomprimir el paquete de enemigos de zona verde. En 'sprites' crear una carpeta llamada 'City Enemies' y dentro descomprimir la carpeta '5':
-	4.1. [Paquete de enemigos](https://bit.ly/3WXAZGt)
+	- [Paquete de enemigos](https://bit.ly/3WXAZGt)
 
  Al final debes quedar con la siguiente estructura:
 
