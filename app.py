@@ -1,3 +1,6 @@
 from game import Game
 
-Game().loop()
+if __name__ == '__main__':
+
+    Game().loop()
+
